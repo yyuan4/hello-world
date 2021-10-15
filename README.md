@@ -31,7 +31,7 @@ _You **can** combine them_
    1. Item 3b
 
 ## Images
-![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
+![GitHub Logo](https://octodex.github.com/images)
  Format:![Alt Text](url)
  
  ## Links
