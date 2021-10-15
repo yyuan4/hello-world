@@ -69,4 +69,15 @@ Content in the first column | Content in the second column
 ## SHA references
 Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.
 
+## Issue references within a repository
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+
+## Username @mentions
+Typing an @ symbol, followed by a username, will notify that person to come and view the comment. 
+
+## Automatic linking for URLs
+Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
+
+
+
 
