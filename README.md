@@ -31,7 +31,7 @@ _You **can** combine them_
    1. Item 3b
 
 ## Images
-![GitHub Logo](https://octodex.github.com/images)
+![GitHub Logo](https://octodex.github.com/images/cat.png)
  Format:![Alt Text](url)
  
  ## Links
