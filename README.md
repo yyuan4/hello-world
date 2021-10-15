@@ -32,13 +32,17 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 
- ## Images
- ![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
-Format: ![Alt Text](url)
+## Images
+![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
+ Format:![Alt Text](url)
  
  ## Links
  http://github.com - automatic!
 [GitHub](http://github.com)
  
- 
+ ## Blockquotes
+ As Kanye West said:
+
+> We're living the future so
+> the present is our past.
  
