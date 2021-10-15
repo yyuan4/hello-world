@@ -33,10 +33,12 @@ _You **can** combine them_
    1. Item 3b
 
  ## Images
- ![GitHub Logo](/images/logo.png)
+ ![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
 Format: ![Alt Text](url)
  
- 
+ ## Links
+ http://github.com - automatic!
+[GitHub](http://github.com)
  
  
  
