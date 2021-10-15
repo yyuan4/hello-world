@@ -3,13 +3,13 @@
 Hi Humans!
 Yuan here, I am very exicted to join GitHub today! I am eager to learn new things from GitHub. 
 
-#Markdown syntax:#
-##Headers##
+# Markdown syntax:
+_## Headers_
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
 
- *##Emphasis##*
+ *##Emphasis*
  *This text will be italic*
 _This will also be italic_
 
