@@ -82,5 +82,5 @@ Any URL (like http://www.github.com/) will be automatically converted into a cli
 Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
 ## Emoji
-GitHub supports emoji!
+GitHub supports :EMOJICODE:!
 To see a list of every image we support, check out the Emoji Cheat Sheet.
