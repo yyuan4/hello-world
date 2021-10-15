@@ -32,7 +32,7 @@ _You **can** combine them_
 
 ## Images
 ![GitHub Logo](https://octodex.github.com/images/octoliberty.png)
- Format:![Alt Text](url)
+![Alt Text](url)
  
  ## Links
  http://github.com - automatic!
