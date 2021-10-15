@@ -12,10 +12,8 @@ Yuan here, I am very exicted to join GitHub today! I am eager to learn new thing
  ## Emphasis
  *This text will be italic*
 _This will also be italic_
-
 **This text will be bold**
 __This will also be bold__
-
 _You **can** combine them_
 
 ## Lists
@@ -42,7 +40,19 @@ _You **can** combine them_
  
  ## Blockquotes
  As Kanye West said:
-
 > We're living the future so
 > the present is our past.
  
+## Inline code
+I think you should use an
+`<addr>` element here instead.
+
+
+
+
+
+
+
+
+
+
