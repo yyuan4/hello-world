@@ -78,6 +78,7 @@ Typing an @ symbol, followed by a username, will notify that person to come and 
 ## Automatic linking for URLs
 Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
 
-
+## Strikethrough
+Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
 
