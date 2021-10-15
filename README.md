@@ -82,5 +82,5 @@ Any URL (like http://www.github.com/) will be automatically converted into a cli
 Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
 ## Emoji
-GitHub supports [Emoji] (https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#using-emoji)!
+GitHub supports [Emoji!](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#using-emoji)
 To see a list of every image we support, check out the [Emoji Cheat Sheet.](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
